@@ -1,0 +1,12 @@
+[project]
+name = "mcp-ping-server"
+version = "0.1.0"
+description = "MCP Ping Server"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.6.0",
+    "starlette>=0.37.2",
+    "uvicorn>=0.30.6"
+]
