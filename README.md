@@ -2,6 +2,11 @@
 
 A server implementation that provides ping functionality to Claude Desktop through MCP (Model Context Protocol). This server allows Claude to perform network connectivity tests and ping operations.
 
+## certified by MCPHub
+
+Get it from MCPhub.com: 
+https://mcphub.com/mcp-servers/sadeghtkd/ping-mcp-server
+ 
 ## Features
 
 - `ping_host`: Ping any host with customizable packet count
